@@ -1,4 +1,4 @@
-# movie_app
+# flutter_codelab
 
 A new Flutter project.
 
@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+![alt text](<UI design-1.webp>)
